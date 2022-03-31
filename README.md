@@ -1,5 +1,7 @@
 # Presentación
 
-## Estudiante: Guadalupe García Fariñas
+## Estudiante: Guadalupe Sofía García Fariñas
+![mi foto](IMG_20220117_184629_542.jpeg)
+###### Buenas! 
+Soy Guada, tengo 19 años. Me gusta leer y soy team invierno porque no hay mosquitos y se puede comer guiso todos los días. :)
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
